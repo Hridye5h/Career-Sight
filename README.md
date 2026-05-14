@@ -10,7 +10,7 @@ app_port: 7860
 # CareerSight
 
 **AI · Education Loan Risk Intelligence**
-Team Aurdinary · IIIT Allahabad · Hridyesh Pandey &amp; Harsh Markam
+Team Aurdinary · IIIT Allahabad · Hridyesh Kumar &amp; Harsh Markam
 
 > 🔴 **Live demo:** **[pandey-jee-careersight.hf.space](https://pandey-jee-careersight.hf.space/)**
 > Drop a resume PDF or pick a persona — full risk surface (placement timeline · salary band · 13-month survival curve · top drivers · Co-Pilot actions) returns in ~56 ms warm.
